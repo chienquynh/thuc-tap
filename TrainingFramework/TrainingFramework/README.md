@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://git.gameloft.org/sea_prg_training/han/hcg001/hoa.truongkhanh/sdl2project.git
+git remote add origin 
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://git.gameloft.org/sea_prg_training/han/hcg001/hoa.truongkhanh/sdl2project/-/settings/integrations)
+- [ ] [Set up project integrations]
 
 ## Collaborate with your team
 
